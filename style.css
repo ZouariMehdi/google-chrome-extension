@@ -1,0 +1,34 @@
+body {
+  padding: 20px;
+  box-sizing: border-box;
+}
+#input-el {
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-right: 50px;
+  font-size: 20px;
+  caret-color: #3b5998;
+  color: #3b5998;
+}
+button {
+  padding: 10px;
+  font-weight: bold;
+  font-size: 20px;
+  margin-right: 10px;
+}
+#input-btn {
+  background-color: #3b5998;
+  color: white;
+}
+#ul-el > li {
+  padding: 5px;
+  font-weight: bold;
+  font-family: sans-serif;
+  color: #3b5998;
+}
+li > a {
+  text-decoration: none;
+}
+li > a:visited {
+  color: red;
+}
